@@ -1,1 +1,1 @@
-# a minimalistic move it company web design using bootstrap 
+# a minimalistic move it company website design using bootstrap
